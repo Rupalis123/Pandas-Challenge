@@ -1,5 +1,8 @@
 # Pandas-Challenge - HeroesOfPymoli Analysis/ Report
 ## 3 observable trends from the anlysis are reported in DataAnalysisReport-HeroesOfPymoli.pdf
+### please use below URL to view jupyter notebook code with output for proper display
+https://nbviewer.jupyter.org/github/Rupalis123/Pandas-Challenge/blob/main/HeroesOfPymoli/HeroesofPymoli-with%20output.ipynb
+
 
 Analysis using pandas
 Report includes:

@@ -1,4 +1,6 @@
 # Pandas-Challenge - HeroesOfPymoli Analysis/ Report
+## 3 observable trends from the anlysis are reported in DataAnalysisReport-HeroesOfPymoli.pdf
+
 Analysis using pandas
 Report includes:
 
